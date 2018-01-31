@@ -10,7 +10,7 @@ The objective of the whole thing is a set of repos [most adapted and cloned from
 
 # Learning how to Learn
 
-EVERYTHING important in life is about some aspect of learning how to deal with the things that are coming up ... in anything, even relationships, parenting, leading others -- the task at hand now is about learning something important for something more important that is coming up ... so PAY ATTENTION!
+EVERYTHING important in life is about some aspect of learning how to deal with the things that are coming up ... in anything, even relationships, parenting, leading others -- the task at hand now is about learning something important for something more important that is coming up ... so PAY ATTENTION! If you imagine that you are paying attention, try to remove what is distracting you to pay even more attention. Do not fall into the trap of DOING too much, pay attention so that you are only doing WHAT MATTERS.
 
 Many educational systems are not really all that educational. Education should be about training us to be able to train for the next step in training for a tough mission. We should train ourselves to do the impossible, by training successively to accomplish more and more difficult objectives.
 
