@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About AWarriorBe
+title: A Warrior Be
 permalink: /about/
 ---
 
-AWarriorBe is a blog that will become a book project for producing a MIL-HDBK sort of field manual with an aim toward ultimately producing repositories for a personal configurable dashboard app of important questions to ask oneself and write about.
+A Warrior Be is the organizational group around the Essence of Being A Warrior blog that will become a book project for producing a MIL-HDBK sort of field manual with an aim toward ultimately producing repositories for a personal configurable dashboard app of important questions to ask oneself, to ponder, act upon, write about, set goals, develop coherent action plans and to do more complicated things, projects and ventures that matter.
 
 # Table of Contents
 1. [Introduction](#introduction) ... #DisciplineEqualsFreedom, SelfAuthoring.com, GracieUniversity
