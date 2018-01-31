@@ -10,7 +10,9 @@ The objective of the whole thing is a set of repos [most adapted and cloned from
 
 # Learning how to Learn
 
-Education should be about training us to be able to train for the next step in training for a tough mission. We should train ourselves to do the impossible, by training successively to accomplish more and more difficult objectives.
+EVERYTHING important in life is about some aspect of learning how to deal with the things that are coming up ... in anything, even relationships, parenting, leading others -- the task at hand now is about learning something important for something more important that is coming up ... so PAY ATTENTION!
+
+Many educational systems are not really all that educational. Education should be about training us to be able to train for the next step in training for a tough mission. We should train ourselves to do the impossible, by training successively to accomplish more and more difficult objectives.
 
 Learning how to learn is really about breaking down a long training project into tasks that build upon competencies developed from other tasks ... that might sound simple enough in theory, but it's damned hard to do in practice ... you may have heard it said that *"no plan ever survives contact with the enemy"* and that is very true ... and it can be extremely frustrating, confusing and even demoralizing ... a serious enough injury sustained during training, for example, basically ends that particular training session -- it doesn't necessarily always need that we have to abandon the program of training but we might have to attack the problem from a different angle or even embark on a totally different program of trainiing ... but **the essence of being a warrior is to never quit on yourself or your larger mission.**
 
