@@ -4,11 +4,11 @@ title: A Warrior Be
 permalink: /about/
 ---
 
-A Warrior Be is the organizational group around the Essence of Being A Warrior blog that will become a book project for producing a MIL-HDBK sort of field manual with an aim toward ultimately producing repositories for a personal configurable dashboard app of important questions to ask oneself, to ponder, act upon, write about, set goals, develop coherent action plans and to do more complicated things, projects and ventures that matter.
+A Warrior Be is an organizational grouping which includes the Essence of Being A Warrior blog which is the basis of book project, something akin to MIL-HDBK sort of field manual. The ultimate objective of A Warrior Be goes beyond writing ... ultimately, it's about set of repositories for producing an executable configurable dashboard app for content management, tracking goals and most importantly for clarifying values and personal philosophy with important questions to ask oneself, to ponder, act upon, write about ... unless one develops one's personal philosophy, one is effectively serving another's philosophy and that means that all of the work of goals that are set, action plans that developed and implemented, agendas that are served are someone else's agenda.
 
 # Table of Contents
 1. [Introduction](#introduction) ... #DisciplineEqualsFreedom, SelfAuthoring.com, GracieUniversity
-2. [Never Quit](#never-quit)
+2. [Classics](#Classics)
 3. [Investments](#investments)
 4. [5S](#five-s) ... sort, simplify, shine, standardize, sustain
 5. [Containerize](#containers) ... projects, issues kanbans, pomodoros, breaks
@@ -25,18 +25,19 @@ A Warrior Be is the organizational group around the Essence of Being A Warrior b
 * Intensive Dietary Management and disciplined fasting
 * Undoctored, health communities and health monitoring
 
-## Never Quit
+## Classics
+
 * The essence of being a warrior is never giving up on yourself or your mission
-* Go back to the most basic of basics, over time new classics will emerge
-* Become a classic, develop your style, set the tone in the room you occupy
+* Go back to the most basic of the classic basics, over time new classics will emerge
+* Become a new classic, develop your style, embody your philosophy to set the tone in any room you occupy
 
 ## Investments
 
 * Diversify, but don't over diversify
 * Water the flowers, pull the weeds
-* Invest everything in what your love
-* Give away ALMOST everything you own
-* Making yourself useful is the only way to sustain life
+* Invest everything in what you love, but only what you love
+* Give away ALMOST everything you own, become independent
+* Making yourself useful is the only way to fight and sustain life
 
 ## Five S
 
@@ -60,12 +61,14 @@ I will describe how I containerize my week into time blocks to work 6 days a wee
 
 ## Collaboration
 
-* git
-* messaging
-* new media
+* help others fight
+* git and structure
+* messaging and staying in touch
+* new media and propaganda
 
 ## Community
 
 * Making the world around you better
-* Don't be afraid to break the china
+* Don't be afraid to hurt feelings or break china
 * Celebrate LIFE!
+* Cultivate your community
