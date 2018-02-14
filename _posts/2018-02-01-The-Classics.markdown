@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Study The Classics"
+title:  "The Classics As A Preface"
 date:   2018-02-01 04:39:09 -0600
 categories: AwarriorBe update
 ---
@@ -18,7 +18,9 @@ There are three keywords in this title ... "Essence" "Being" and "Warrior" ... t
 
 ### Essence
 
-Since this book is about "Essence" you should understand that this book is primarily about philosophy and how serious philosophy is done by serious philosophers. If you are not interested at all in that kind of thing, you should stop right NOW and not waste your time going any further. Life is short; there are plenty of other things to do with your time.
+Since this book is about "Essence" it means that we are trying boil what it is about being a warrior down to its most essential elements ... it isn't essential [in all cases] for a warrior to wear body armor or camo, but it might be a very good idea. It's isn't essential for a warrior to be some sort of ninja master of martial arts, but it is essential for a warrior should be able to defend himself/herself in the environment that he/she must operate in. The most essential part of being a warrior is never quitting on the mission.
+
+You should understand that this book is primarily about philosophy and how semi-serious philosophy is done by writers who are reasonably serious students of philosophy. If you are not interested at all in that kind of thing, you should stop right NOW and not waste your time going any further. Life is short; there are plenty of other things to do with your time.
 
 ### Being
 
